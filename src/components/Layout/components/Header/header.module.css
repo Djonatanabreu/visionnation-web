@@ -1,0 +1,13 @@
+.headerContainer {
+  display: flex;
+  position: fixed;
+  max-height: 60px;
+  width: 100vw;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.headerContainer ul {
+  display: flex;
+  gap: 20px;
+}

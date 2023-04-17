@@ -1,0 +1,6 @@
+.drawerContainer {
+  width: 15vw;
+  height: 40vw;
+  top: 15vh;
+  position: fixed;
+}
